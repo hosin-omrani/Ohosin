@@ -4,7 +4,10 @@
   "info": {
     "title": "Default Team"
   },
-  "siteConfig": {},
+  "siteConfig": {
+    "customDomain": "wwwhosinomrani.com",
+    "subpath": "/https://wwwhosinomrani.com"
+  },
   "navigation": {
     "routes": {
       "/": {
