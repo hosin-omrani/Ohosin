@@ -6,7 +6,11 @@
   },
   "siteConfig": {
     "customDomain": "wwwhosinomrani.com",
-    "subpath": "/https://wwwhosinomrani.com"
+    "subpath": "/https://wwwhosinomrani.com",
+    "logo": {
+      "lightMode": "https://wwwhosinomrani.com",
+      "darkMode": "https://wwwhosinomrani.com"
+    }
   },
   "navigation": {
     "routes": {
